@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHUNAO
-- I’m currently learning Neural Network and Machine Vision
+- I’m currently learning Autonomous Driving
 - This is a storage for my useless code
 
 <!---
